@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @utkarshtshah
-- 👀 I’m interested in Java and Python apps. Intend to try things with ML and AI
-- 🌱 I’m currently learning AWS, GCP and Python
+- 👀 I’m interested in Java, AWS and Python apps. Intend to try things with ML and AI
+- 🌱 I’m currently learning AWS and Python
 - 💞️ I’m looking to collaborate on AWS and Python
 - 📫 utkarshtshah.com
 
