@@ -1,1 +1,2 @@
 This just another sample text file for git library.
+Now this text is for branch : myFirstBranch.
